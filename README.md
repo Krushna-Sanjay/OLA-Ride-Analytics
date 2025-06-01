@@ -39,7 +39,7 @@ This project analyzes OLA ride data to uncover patterns in bookings, cancellatio
 - Update the data source settings to connect to your local SQL database
 
 
-📈** Key Insights**
+📈 **Key Insights**
 
 - **Total Bookings**: Tracks the overall volume of ride requests.
 - **Total Successful & Cancelled Bookings**: Clear breakdown of completed vs. cancelled rides.
@@ -80,7 +80,7 @@ git push origin feature/YourFeatureName
 - This project is licensed under the MIT License, allowing for reuse and modification with proper attribution.
 
 
-📬 Contact
+📬 **Contact**
 - Feel free to connect with me for any questions or suggestions:
 
 - 📧 Email: krushnagheewala.edu16@gmail.com
