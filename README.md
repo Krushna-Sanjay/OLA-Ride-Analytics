@@ -47,7 +47,7 @@ This project analyzes OLA ride data to uncover patterns in bookings, cancellatio
 - **Cancellation Reasons**: Categorized analysis of cancellations by driver and customer.
 - **Booking Status Analysis**: Visual count of bookings based on their status.
 - **Average Ratings**: Displays average driver and customer ratings for completed rides.
-- ** Booking Value by Payment Method**: Compares transaction volumes across different payment modes (cash, wallet, card, etc.).
+- **Booking Value by Payment Method**: Compares transaction volumes across different payment modes (cash, wallet, card, etc.).
 - **Daily Ride Distance**: Tracks distance traveled each day for operational trend analysis.
 - **Top 5 Customers by Booking Value**: Highlights key customers who generate the highest revenue.
 - **Distance & Booking Value by Vehicle Type**: Compares average and total distance traveled and revenue by auto, mini, prime, etc.
